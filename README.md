@@ -6,17 +6,17 @@ This project aims to classify EEG signals recorded before and during an arithmet
 
 ## Table of Contents
 
-	1.	Project Structure
-	2.	Installation
-	3.	Dataset
-	4.	Exploratory Data Analysis (EDA)
-	5.	Power Spectral Density (PSD) Calculation
-	6.	Models
-	•	EEGNet
-	•	TSCeption
-	7.	Results
-	8.	Contributing
-	9.	License
+	1. Project Structure
+	2. Installation
+	3. Dataset
+	4. Exploratory Data Analysis (EDA)
+	5. Power Spectral Density (PSD) Calculation
+	6. Models
+	   • EEGNet
+	   • TSCeption
+	7. Results
+	8. Contributing
+	9. License
 
 ### Project Structure
 ```
