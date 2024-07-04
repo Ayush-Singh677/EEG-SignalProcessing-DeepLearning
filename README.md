@@ -20,12 +20,12 @@ This project aims to classify EEG signals recorded before and during an arithmet
 
 ### Project Structure
 ```
-├── eegnet-v1.ipynb
-├── psd.ipynb
-├── eda.ipynb
-├── tsception.ipynb
 ├── README.md
 ├── requirements.txt
+├── eda.ipynb
+├── psd.ipynb
+├── eegnet-v1.ipynb
+├── tsception.ipynb
 ```
 ### Installation
 
